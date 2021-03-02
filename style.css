@@ -85,7 +85,10 @@ input:focus{
 }
 .result{
     padding: 1rem 0;
-    display: none;      /*display NONE*/
+    display: none;    /*display NONE*/
+}
+.load{
+    display: none;
 }
 
 .inner-result{
